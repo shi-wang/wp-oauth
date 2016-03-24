@@ -1,7 +1,7 @@
 <?php
 
-define('QQ_APPID','');//appkey
-define('QQ_APPSECRET','');//appsecret
+define('QQ_APPID'101298195'');//appkey
+define('QQ_APPSECRET'dac9d05073599e5609a1970b681f665e'');//appsecret
 
 require( dirname(__FILE__) . '/wp-load.php' );
 
